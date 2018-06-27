@@ -6,9 +6,9 @@ class NotFound extends Component {
       <div>
         Page not found
       </div>
-    )
-  }
-}
+    );
+  };
+};
 
 
 export default NotFound;
